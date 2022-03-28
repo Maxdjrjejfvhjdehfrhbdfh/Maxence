@@ -1,2 +1,3 @@
 Doulkom Ayman et EL HAÏK Maxence 
 
+On initialise mon_fichier comme étant une nouvelle branche, et non comme étant un fichier appartenant à la branche master. C'est donc pour cette raison qu'on ne voit pas apparaître notre fichier dans notre dossier. 
